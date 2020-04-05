@@ -12,3 +12,4 @@
 | ---------------- | ------------- |
 | Sometimes a problem| >=3 problem | 
 | N/A | 1500-2500 ranking | 
+![Test Image 1](capture.png)
